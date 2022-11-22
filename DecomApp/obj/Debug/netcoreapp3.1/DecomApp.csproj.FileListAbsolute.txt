@@ -1,0 +1,17 @@
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\DecomApp.exe
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\DecomApp.deps.json
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\DecomApp.runtimeconfig.json
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\DecomApp.runtimeconfig.dev.json
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\DecomApp.dll
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\DecomApp.pdb
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\Autofac.dll
+D:\Dev\AutoFac-testing\DecomApp\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.csproj.AssemblyReference.cache
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.AssemblyInfoInputs.cache
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.AssemblyInfo.cs
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.csproj.CoreCompileInputs.cache
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.csproj.CopyComplete
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.dll
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.pdb
+D:\Dev\AutoFac-testing\DecomApp\obj\Debug\netcoreapp3.1\DecomApp.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Gz7iFRC6K3/88EYrEgSprTIXo7PX92TwynTfDec9jKLoD34Me87rZ2JI3omo9qV5OcoQgqlkXyyR6P0qwJzwg==",
+  "success": true,
+  "projectFilePath": "D:\\Dev\\AutoFac-testing\\DecomApp\\DecomApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tanya.Kuo\\.nuget\\packages\\autofac\\6.5.0\\autofac.6.5.0.nupkg.sha512",
+    "C:\\Users\\Tanya.Kuo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
